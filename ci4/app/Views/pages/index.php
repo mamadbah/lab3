@@ -6,7 +6,10 @@
 
 <style>
 body {
-  background-image: url('snow.jpg');
+  background-image:
+<?php
+echo img('images/snow.jpg');
+?> 
   background-repeat: no-repeat;
   background-attachment: fixed; 
   background-size: 100% 100%;
