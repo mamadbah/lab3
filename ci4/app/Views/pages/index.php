@@ -8,9 +8,7 @@
 body {
 
   background-image: 
-  <?php
-  echo img('images/snow.jpg');
-  ?>
+  url('images/snow.jpg');
   
   background-repeat: no-repeat;
   background-attachment: fixed; 
