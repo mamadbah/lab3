@@ -40,10 +40,10 @@ p {
 
 <h1 style="background-color:MediumSeaGreen;">My Personal Information</h1>
 
-<img src="mousa.png" width="150" height="122";>
- <img src="imag.png" style="float:right;width:222px;height:122px;">
- <img src="img_tree.png" style="float:right;width:222px;height:122px;">
- <img src="sky.png" style="float:right; width="200" height="200">
+<img src="images/mousa.png" width="150" height="122";>
+ <img src="images/imag.png" style="float:right;width:222px;height:122px;">
+ <img src="images/img_tree.png" style="float:right;width:222px;height:122px;">
+ <img src="images/sky.png" style="float:right; width="200" height="200">
  
  
  
